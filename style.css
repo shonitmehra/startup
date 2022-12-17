@@ -1,0 +1,33 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+background: url(header.jpg);   
+  background-size: cover;
+}
+h1{
+    font-size: 3 rem;
+    color:#e2dbdb     ;
+
+}
+.btn {
+    font-weight: 700;
+    border-radius: 800px;
+    text-transform: uppercase;
+    
+    
+}
+.btn-primary{
+    background-color: #f05f44;
+    border-color: #f05f44;
+}
+
+
+/* hr {
+    margin: 20px auto;
+    color: #F05F44;
+    border: 3px solid #F05F44;
+    max-width: 65px;
+    opacity: 1;  
+} */
